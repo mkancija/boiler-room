@@ -9,4 +9,5 @@ Simple and generic boiler room status monitor and controller.
 
 ## Images
 
+![boiler-room-example1](https://github.com/user-attachments/assets/031ad77c-4b7b-42ea-a162-a65c11dd1e37)
 
